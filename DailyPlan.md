@@ -150,3 +150,11 @@ Kafka architecture
 * Plan<br/>
 interview questions
 
+Daily Summary and Plan Mar 10, 12:00 pm
+* Summary<br/>
+Summarizing previous Summary files and knowledge points
+* Plan<br/>
+review Spring Cloud part</br>
+reorganize the checklist
+
+
