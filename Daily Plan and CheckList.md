@@ -79,18 +79,19 @@ finish basic points
 tried to build a demo, a simple Spring application
 
 * Plan<br/>
-review yesterday’s lecture [(Summary)](/Java-Advanced/Spring_-_Feb_22.pdf)
+review yesterday’s lecture [(Summary Link)](/Java-Advanced/Spring_-_Feb_22.pdf)
 
 Daily Summary and Plan Feb 24, 9:00 am
 * Summary<br/>
-reviewed yesterday’s lecture
+reviewed yesterday’s lecture </br>
 tried to build and initiate a spring dome showed on the lecture
 * Plan<br/>
-research movied_rating_new demo
+research movied_rating_new demo </br>
+review lecture [(Summary Link)](/Java-Advanced/Spring_-_Feb_23.pdf)
 
 Daily Summary and Plan Feb 25, 9:00 am
-* Summary<br/>
-tried to test api with postman
+* Summary [(Summary Link)](/Java-Advanced/Spring_-_Feb_24.pdf)<br/>
+tried to test api with postman 
 wrote controllers, services, and entities of movie dome and debug
 * Plan<br/>
 review today’s lecture
@@ -100,8 +101,8 @@ Daily Summary and Plan Feb 28, 9:00 am
 * Summary<br/>
 review last lecture
 * Plan<br/>
-review today’s lecture
-learn swagger
+review today’s lecture[(Summary Link)](/Java-Advanced/Spring_-_Feb_28.pdf)</br>
+learn swagger</br>
 any knowledge of Angular
 
 Daily Summary and Plan Mar 1, 9:00 am
@@ -126,7 +127,7 @@ Daily Summary and Plan Mar 2, 12:00 pm
 
 
 * Plan<br/>
-review today’s lecture
+review today’s lecture [(Summary Link)](/Java-Advanced/Spring_-_Mar_2.pdf)
 
 Daily Summary and Plan Mar 3, 12:00 pm
 
@@ -142,7 +143,7 @@ review today’s lecture
 
 Daily Summary and Plan Mar 8, 12:00 pm
 * Summary<br/>
-reviewed yesterday’s lecture
+reviewed yesterday’s lecture [(Summary Link)](/Java-Advanced/Spring_-_Mar_7.pdf) </br>
 review message Q
 Kafka architecture
 
