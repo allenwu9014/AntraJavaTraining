@@ -79,7 +79,7 @@ finish basic points
 tried to build a demo, a simple Spring application
 
 * Plan<br/>
-review yesterday’s lecture [(Summary)](/Java-Advanced/Sping_-_Feb_22.pdf)
+review yesterday’s lecture [(Summary)](/Java-Advanced/Spring_-_Feb_22.pdf)
 
 Daily Summary and Plan Feb 24, 9:00 am
 * Summary<br/>
