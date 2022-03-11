@@ -158,4 +158,13 @@ Summarizing previous Summary files and knowledge points
 review Spring Cloud part</br>
 reorganize the checklist
 
+Daily Summary and Plan Mar 11, 12:00 pm
+* Summary<br/>
+    Review Spring Cloud<br/>
+    additionally, SOA(EIP, ESB)<br/>       
+    reorganizing checklist
 
+* Plan<br/>
+reorganize checklist<br/>
+interview question<br/>
+practice Spring cloud demo<br/>
