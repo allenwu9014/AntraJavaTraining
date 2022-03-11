@@ -3,7 +3,8 @@
  [Google Doc Version](https://docs.google.com/document/d/15QlulH5DZeKAPiHlcFqh061vQAzqSjcCZF7EdpenQtg/edit?usp=sharing)
 
 
-
+Java Core CheckList [(Link)](/Java-Core/Java-Core-CheckList.md)</br>
+Java Advanced CheckList[(Link)](Java-Advanced-CheckList.md)
 
 
 Weekly Plan  Feb 17 - Feb 18 <br/>
