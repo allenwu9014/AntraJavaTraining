@@ -168,3 +168,40 @@ Daily Summary and Plan Mar 11, 12:00 pm
 reorganize checklist<br/>
 interview question<br/>
 practice Spring cloud demo<br/>
+
+Daily Summary and Plan Mar 12, 12:00 pm<br/>
+
+1. Summary<br/>
+    1. reorganized a portion of checklist(before SOAP)<br/>
+    2. researched Spring Cloud demo<br/>
+
+b. Plan<br/>
+
+1. review the AWS lecture<br/>
+2. review the MicroServices lecture<br/>
+
+Daily Summary and Plan Mar 13, 12:00 pm<br/>
+
+1. Summary<br/>
+    1. reviewed the AWS lecture [(Summary Link)](/Java-Advanced/Spring_-_Mar_11.pdf) </br><br/>
+    2. reviewed the MicroServices lecture [(Summary Link)](/Java-Advanced/Spring_-_Mar_3.pdf) </br><br/>
+    
+
+b. Plan<br/>
+
+1. review Authentication and Authorization<br/>
+
+**Weekly Plan  Mar *14 - Mar 20***<br/>
+
+1. start to reviewing Spring framework<br/>
+    1. IOC/DI, AOP, Spring Boot, REST, MicroServices<br/>
+2. start to practicing 44 interview questions<br/>
+    1. Core Java, DesignPatterns, Frameworks, Project, RESTful<br/>
+
+Daily Summary and Plan Mar 14, 12:00 pm<br/>
+
+1. Summary<br/>
+    1. reviewed Authentication and Authorization[(Summary Link)](/Java-Advanced/Spring_-_Mar_4.pdf) </br><br/>
+2. Plan<br/>
+    1. review today’s lecture<br/>
+    2. interview questions: Stream API, Functional interface, Optional Class<br/>
