@@ -205,3 +205,13 @@ Daily Summary and Plan Mar 14, 12:00 pm<br/>
 2. Plan<br/>
     1. review today’s lecture<br/>
     2. interview questions: Stream API, Functional interface, Optional Class<br/>
+
+Daily Summary and Plan Mar 15, 16:00PM<br/>
+
+1. Summary<br/>
+    1. practiced IQ, Stream API<br/>
+    2. practiced and learned reporting_system_aws project(continuing)<br/>
+    3. reviewed RESTful API knowledge<br/>
+2. Plan
+    1. review today’s lecture<br/>
+    2. interview questions:  Functional interface, Optional Class<br/>
