@@ -215,3 +215,33 @@ Daily Summary and Plan Mar 15, 16:00PM<br/>
 2. Plan
     1. review today’s lecture<br/>
     2. interview questions:  Functional interface, Optional Class<br/>
+
+Daily Summary and Plan Mar 16, 12:00PM <br/>
+
+1. Summary<br/>
+    1. reviewed yesterday’s lecture<br/>
+        - Codes Review and Test<br/>
+2. Plan<br/>
+    1. review today’s lecture<br/>
+
+Daily Summary and Plan Mar 17, 16:00PM<br/>
+
+1. Summary<br/>
+    1. reviewed yesterday’s lecture<br/>
+        - programming work flow<br/>
+2. Plan<br/>
+    1. review today’s lecture<br/>
+
+Daily Summary and Plan Mar 18, 16:00PM<br/>
+
+1. Summary<br/>
+    1. reviewed yesterday’s lecture<br/>
+        - Summary 1<br/>
+2. Plan
+    1. review today’s lecture<br/>
+
+Daily Summary and Plan Mar 19, 10:00PM<br/>
+
+1. Summary<br/>
+    1. reviewed yesterday’s lecture<br/>
+        - Summary 2<br/>
